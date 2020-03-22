@@ -19,6 +19,20 @@
 #gHHG8PIZ {
 	-webkit-tap-highlight-color: transparent;
 }
+@font-face{
+    font-family: 'Century Gothic';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Century Gothic'),
+         url('resources/font_0.woff');
+}
+@font-face{
+    font-family: 'Century Gothic';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Century Gothic Bold'),
+         url('resources/font_1.woff');
+}
 
 .ap-input-fib-placeholder-slide-230-control-3 {
   box-shadow: 0 0 0 2px rgba(127,127,127,0.8);
